@@ -28,7 +28,6 @@ stacks
 trie
 ├── cpp
 └── python
-
 ```
 
 ## Content:
